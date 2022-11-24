@@ -1,0 +1,40 @@
+.logo{
+    width: 80px;
+    height:60px;
+    padding: 5px;
+    background-origin: 0px;
+}
+#go{
+    background-color:black;
+    color: white;
+    border-radius: 5px 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.navbar{
+    background-color: black;
+}
+.bottomcard{
+    height: 80vh;
+}
+.image{
+    width: 80px;
+    height: 80px;
+}
+.phonecard{
+    height: 150px;
+    width:155px;
+    border-radius: 10px;
+    padding: 5px;
+    background-color:bisque;
+    text-align: center;
+    margin:15px;
+}
+.heading{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+.para{
+    font-weight: bold;
+}
